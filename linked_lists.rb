@@ -37,10 +37,8 @@ class LinkedList
   end
 
   def tail
-    current_node = @head
-    i = 1 # We have already 1 node at the beginning
+    current_node = @head # We have already 1 node at the beginning
     until current_node.next.nil?
-      i += 1
       current_node = current_node.next
     end
     current_node.value
