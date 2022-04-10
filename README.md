@@ -1,6 +1,6 @@
 # Project: Linked Lists
 
-This project is part of the [The Odin Projects]("https://www.theodinproject.com/lessons/ruby-linked-lists") Ruby curriculum.
+This project is part of the [The Odin Projects](https://www.theodinproject.com/lessons/ruby-linked-lists) Ruby curriculum.  
 
 ## Structure of a Linked list
 
@@ -11,8 +11,8 @@ A head node is the first node in the list, a tail node is the last node in the l
 [ NODE(head) ] -> [ NODE ] -> [ NODE(tail) ] -> nil
 
 For a more verbal explanation
-[Linked list in plain English]("https://www.youtube.com/watch?v=oiW79L8VYXk")
-[What is a Linked list ?]("https://dev.to/vaidehijoshi/whats-a-linked-list-anyway")
+[Linked list in plain English](https://www.youtube.com/watch?v=oiW79L8VYXk)  
+[What is a Linked list ?](https://dev.to/vaidehijoshi/whats-a-linked-list-anyway)  
 
 # Assignments 
 
